@@ -1,5 +1,5 @@
 # Shorts-Content-Generator
-This project generates a Youtube shorts fomat video and uploads it to Youtube without any user action.
+This project generates a Youtube shorts format video and uploads it to Youtube without any user action.
 
 
 This is a project that allows users to create a Youtube Shorts form video and automatically upload to Youtube.
